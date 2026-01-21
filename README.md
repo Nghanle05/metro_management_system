@@ -82,5 +82,5 @@ Thông qua đề tài, nhóm hiểu rõ hơn quy trình phân tích, thiết k�
 
 ## 📊 KHẢO SÂT
 -----------
-1. [Railway Management System _Group10]([url](https://github.com/fuboki10/Railway-Management-System/tree/master))
+1. [Railway Management System _Group10](urlhttps://github.com/fuboki10/Railway-Management-System/tree/master)
 2. [McMahon, P., Zhang, T., & Dwight, R. (2020). Requirements for big data adoption for railway asset management. IEEE Access, 8, 15543–15564](url) 
