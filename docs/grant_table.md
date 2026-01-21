@@ -1,4 +1,4 @@
-**BẢNG PHÂN QUYỀN CHO CÁI NHÌN TỔNG QUÁT VỀ CÁC QUYỀN HẠN MÀ TỪNG ĐỐI TƯỢNG TRUY CẬP VÀO HỆ THỐNG**
+**BẢNG PHÂN QUYỀN CHO CÁI NHÌN TỔNG QUÁT VỀ CÁC QUYỀN CỦA TỪNG ĐỐI TƯỢNG TRUY CẬP VÀO HỆ THỐNG**
 
 | Đối tượng | Quản trị viên | Quản lý ga | Nhân viên vé | Nhân viên bảo trì | Hành khách |
 | --------- | ------------- | ---------- | ------------ | ----------------- | ---------- |
