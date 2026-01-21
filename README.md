@@ -1,13 +1,10 @@
-# metro_management_system
-Quản lý thông tin và thiết kế lược đồ ERD cho hệ thống quản lý Metro 
-
 ### CÁC THÀNH VIÊN ĐÓNG GÓP 
 ----------
 - 23520285 - Lương Kiều Diễm
 - 23520415 - Trần Thanh Hà
 - 23520430 - Lê Thị Ngọc Hân
 
-### TỔNG QUAN HỆ THỐNG 
+### MÔ TẢ ĐỀ TÀI  
 ----------
 Hệ thống Quản lý Metro được xây dựng nhằm hỗ trợ quản lý và vận hành hệ thống tàu điện Metro trong bối cảnh đô thị hóa nhanh, mật độ dân cư cao và tình trạng ùn tắc giao thông nghiêm trọng tại các thành phố lớn ở Việt Nam như TP.HCM và Hà Nội. Hệ thống góp phần giảm tải giao thông đường bộ, hạn chế ô nhiễm môi trường và nâng cao chất lượng di chuyển của người dân.
 
@@ -34,6 +31,50 @@ Hệ thống phục vụ nhiều nhóm người dùng với quyền hạn khác 
 ----------
 ![ERD hệ thống](images/ERD.png)
 
+### KẾT QUẢ ĐẠT ĐƯỢC 
+----------
+Trong quá trình thực hiện đề tài **Hệ thống quản lý Metro**, nhóm đã vận dụng các kiến thức về xử lý dữ liệu, thiết kế Menu, Form, Report và Help để xây dựng một hệ thống quản lý thông tin có tổ chức.
+
+Hệ thống đáp ứng các yêu cầu quản lý như:
+- Quản lý tàu điện, ga tàu và tuyến đường
+- Quản lý chuyến đi và vé tàu
+- Quản lý hành khách và nhân sự
+- Quản lý đội bảo trì
+- Tích hợp dự báo thời tiết
+
+Hệ thống sử dụng cơ sở dữ liệu quan hệ MySQL, hỗ trợ đầy đủ các chức năng thêm, xóa, sửa và tra cứu dữ liệu. Giao diện được thiết kế đơn giản, dễ sử dụng.
+
+Thông qua đề tài, nhóm hiểu rõ hơn quy trình phân tích, thiết kế hệ thống quản lý thông tin và nâng cao kỹ năng phân tích, xử lý dữ liệu.
+
+### ƯU VÀ NHƯỢC ĐIỂM CỦA ĐỒ ÁN 
+----------
+1. Về ưu điểm:
+- Hệ thống lưu trữ và quản lý đầy đủ, có tổ chức các thông tin liên quan đến
+  tàu điện, ga tàu, tuyến đường, hành khách, vé tàu và chuyến đi.
+- Cơ sở dữ liệu được thiết kế theo mô hình quan hệ và quản lý bằng MySQL,
+  giúp đảm bảo tính nhất quán, an toàn và dễ thao tác với dữ liệu.
+- Mã nguồn rõ ràng, dễ bảo trì và thuận lợi cho việc mở rộng hệ thống trong tương lai.
+- Tích hợp dữ liệu dự báo thời tiết giúp hành khách chủ động lựa chọn tuyến đường
+  phù hợp trong điều kiện thời tiết không thuận lợi.
+3. Về nhược điểm:
+- Phạm vi các tuyến Metro còn hạn chế.
+- Chưa triển khai đầy đủ các cơ chế bảo mật cho mật khẩu người dùng và dữ liệu hệ thống.
+- Hệ thống hiện quản lý nhiều thực thể, việc mở rộng thêm có thể làm tăng độ phức tạp
+  trong liên kết giữa các bảng dữ liệu.
+- Chưa hỗ trợ xác định mức độ ảnh hưởng của thời tiết đến từng ga cụ thể.
+
+### HƯỚNG PHÁT TRIỂN TRONG TƯƠNG LAI
+----------
+- Đề xuất tuyến đường và ga xuống phù hợp dựa trên điểm đến của hành khách,
+  đồng thời cung cấp chỉ dẫn di chuyển đến ga tàu.
+- Kết hợp với các hệ quản trị cơ sở dữ liệu khác như Oracle hoặc MongoDB
+  để nâng cao khả năng quản lý và mở rộng dữ liệu.
+- Mở rộng thêm các tuyến Metro kết nối với các tỉnh, thành phố lân cận
+  như Đồng Nai, Bà Rịa – Vũng Tàu, Bình Phước và các khu vực xa hơn.
+- Phát triển website cho hệ thống và tích hợp Chatbot hỗ trợ người dùng.
+- Nâng cao mức độ tích hợp dữ báo thời tiết, xác định ảnh hưởng đến từng ga cụ thể.
+- Tăng cường bảo mật bằng cách mã hóa dữ liệu và mật khẩu người dùng.
+  
 ### CÁC CÔNG CỤ SỬ DỤNG 
 ----------
 - Hệ quản trị cơ sở dữ liệu MySQL và Excel: được sử dụng để thu thập lưu trữ dữ liệu 
