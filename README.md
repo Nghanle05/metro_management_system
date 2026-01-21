@@ -56,6 +56,7 @@ Thông qua đề tài, nhóm hiểu rõ hơn quy trình phân tích, thiết k�
 - Mã nguồn rõ ràng, dễ bảo trì và thuận lợi cho việc mở rộng hệ thống trong tương lai.
 - Tích hợp dữ liệu dự báo thời tiết giúp hành khách chủ động lựa chọn tuyến đường
   phù hợp trong điều kiện thời tiết không thuận lợi.
+  
 *2. Về nhược điểm:*
 - Phạm vi các tuyến Metro còn hạn chế.
 - Chưa triển khai đầy đủ các cơ chế bảo mật cho mật khẩu người dùng và dữ liệu hệ thống.
