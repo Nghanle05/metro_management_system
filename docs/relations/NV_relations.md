@@ -1,6 +1,6 @@
 ### 1. NV_TAUDIEN
 
-**NV_TAUDIEN** (<ins>MSTau</ins>, MSNV) 
+**NV_TAUDIEN** (<ins>MSTau, MSNV</ins>) 
 
 **Tân từ:** Quan hệ **NV_TAUDIEN** chứa thông tin về các nhân viên làm việc trong các 
 tàu điện. Thông tin bao gồm: mã số tàu điện (MSTau) và mã số nhân viên (MSNV). 
@@ -12,7 +12,7 @@ tàu điện. Thông tin bao gồm: mã số tàu điện (MSTau) và mã số n
 
 ### 2. NV_GATAU
 
-**NV_GATAU** (<ins>MSGa</ins>, MSNV) 
+**NV_GATAU** (<ins>MSGa, MSNV</ins>) 
 
 **Tân từ:** Quan hệ **NV_GATAU** chứa thông tin về các nhân viên làm việc trong các ga 
 tàu. Thông tin bao gồm: mã số ga tàu (MSGa), và mã số nhân viên (MSNV). 
