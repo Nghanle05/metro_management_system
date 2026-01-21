@@ -80,7 +80,7 @@ Thông qua đề tài, nhóm hiểu rõ hơn quy trình phân tích, thiết k�
 - Hệ quản trị cơ sở dữ liệu MySQL và Excel: được sử dụng để thu thập lưu trữ dữ liệu 
 - DrawDB và Draw.io: được sử dụng để phân tích và thiết kế sơ đồ
 
-## 📊 KHẢO SÂT
+## 📊 KHẢO SÁT
 -----------
 1. [Railway Management System _Group10](https://github.com/fuboki10/Railway-Management-System/tree/master)
 2. [McMahon, P., Zhang, T., & Dwight, R. (2020). Requirements for big data adoption for railway asset management. IEEE Access, 8, 15543–15564](url) 
