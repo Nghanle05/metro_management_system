@@ -1,0 +1,4 @@
+### 1. TAUDIEN (MSTau, TenTau, SLToa, TrangThai, GioKH, GioKT, MSTuyen) 
+
+Tân từ: Quan hệ TAUDIEN chứa thông tin về các tàu điện. Thông tin gồm có: mã số tàu điện (MSTau), tên tàu điện (TenTau), số lượng toa (SLToa), trạng thái hoạt động 
+(TrangThai), giờ khởi hành (GioKH), giờ kết thúc (GioKT), và mã số tuyến đường mà tàu điện sẽ đi (MSTuyen).
