@@ -1,10 +1,8 @@
 ### 1. TAUDIEN
 
-**TAUDIEN** (<b>MSTau</b>, TenTau, SLToa, TrangThai, GioKH, GioKT, MSTuyen)
+**TAUDIEN** (<b><u>MSTau</b></u>, TenTau, SLToa, TrangThai, GioKH, GioKT, MSTuyen)
 
-**Mô tả:**  
-Quan hệ **TAUDIEN** lưu trữ thông tin về các tàu điện, bao gồm:
-mã số tàu điện, tên tàu điện, số lượng toa, trạng thái hoạt động,
+**Tân từ:**  Quan hệ **TAUDIEN** lưu trữ thông tin về các tàu điện, bao gồm: mã số tàu điện, tên tàu điện, số lượng toa, trạng thái hoạt động,
 giờ khởi hành, giờ kết thúc và tuyến đường mà tàu điện di chuyển.
 
 | STT | Thuộc tính | Kiểu dữ liệu | Ý nghĩa | Ràng buộc |
