@@ -1,4 +1,11 @@
-### 1. TAUDIEN (MSTau, TenTau, SLToa, TrangThai, GioKH, GioKT, MSTuyen) 
-
+### 1. TAUDIEN 
+**TAUDIEN** (<b>MSTau</b>, TenTau, SLToa, TrangThai, GioKH, GioKT, MSTuyen) 
 Tân từ: Quan hệ TAUDIEN chứa thông tin về các tàu điện. Thông tin gồm có: mã số tàu điện (MSTau), tên tàu điện (TenTau), số lượng toa (SLToa), trạng thái hoạt động 
 (TrangThai), giờ khởi hành (GioKH), giờ kết thúc (GioKT), và mã số tuyến đường mà tàu điện sẽ đi (MSTuyen).
+
+| STT | Thuộc tính | Kiểu dữ liệu | Ý nghĩa | Ràng buộc |
+| --- | ---------- | ------------ | ------- | ---------- |
+| 1 | MSTau | char(5) | Mã số của tàu điện | Khóa chính |
+| 2 | TenTau | varchar(50) | Tên của tàu điện | NOT NULL |
+
+### 2. GATAU 
