@@ -25,5 +25,5 @@ Trong đó:
 - X: Xem
 - S: Sửa
 - C: Cập nhật
-- Đ: Xóa
+- Đ: Đọc 
 - K: Không có quyền
