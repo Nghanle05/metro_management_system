@@ -1,8 +1,10 @@
 ## 👨‍👩‍👧‍👦 CÁC THÀNH VIÊN ĐÓNG GÓP 
 ----------
-- 23520285 - Lương Kiều Diễm
-- 23520415 - Trần Thanh Hà
-- 23520430 - Lê Thị Ngọc Hân
+| STT | MSSV | Họ tên | Email |
+|---|----------|-----------------|--------------------|
+| 1 | 23520430 | Lê Thị Ngọc Hân | 23520430@gm.uit.edu.vn |
+| 2 | 23520285 | Lương Kiều Diễm | 23520285@gm.uit.edu.vn |
+| 3 | 23520415 | Trần Thanh Hà | 23520415@gm.uit.edu.vn |
 
 ## 🧭 MÔ TẢ ĐỀ TÀI  
 ----------
